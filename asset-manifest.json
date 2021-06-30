@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/flipkart-basics/static/css/main.aabd832b.chunk.css",
-    "main.js": "/flipkart-basics/static/js/main.825f9bc7.chunk.js",
-    "main.js.map": "/flipkart-basics/static/js/main.825f9bc7.chunk.js.map",
-    "runtime-main.js": "/flipkart-basics/static/js/runtime-main.5b7293d3.js",
-    "runtime-main.js.map": "/flipkart-basics/static/js/runtime-main.5b7293d3.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/flipkart-basics/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.c760e87a.chunk.js": "/flipkart-basics/static/js/2.c760e87a.chunk.js",
-    "static/js/2.c760e87a.chunk.js.map": "/flipkart-basics/static/js/2.c760e87a.chunk.js.map",
-    "index.html": "/flipkart-basics/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/flipkart-basics/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.aabd832b.chunk.css.map": "/flipkart-basics/static/css/main.aabd832b.chunk.css.map",
-    "static/js/2.c760e87a.chunk.js.LICENSE.txt": "/flipkart-basics/static/js/2.c760e87a.chunk.js.LICENSE.txt"
+    "main.css": "/flipkart-home/static/css/main.aabd832b.chunk.css",
+    "main.js": "/flipkart-home/static/js/main.825f9bc7.chunk.js",
+    "main.js.map": "/flipkart-home/static/js/main.825f9bc7.chunk.js.map",
+    "runtime-main.js": "/flipkart-home/static/js/runtime-main.3c640116.js",
+    "runtime-main.js.map": "/flipkart-home/static/js/runtime-main.3c640116.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/flipkart-home/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0655fbd6.chunk.js": "/flipkart-home/static/js/2.0655fbd6.chunk.js",
+    "static/js/2.0655fbd6.chunk.js.map": "/flipkart-home/static/js/2.0655fbd6.chunk.js.map",
+    "index.html": "/flipkart-home/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/flipkart-home/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.aabd832b.chunk.css.map": "/flipkart-home/static/css/main.aabd832b.chunk.css.map",
+    "static/js/2.0655fbd6.chunk.js.LICENSE.txt": "/flipkart-home/static/js/2.0655fbd6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b7293d3.js",
+    "static/js/runtime-main.3c640116.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.c760e87a.chunk.js",
+    "static/js/2.0655fbd6.chunk.js",
     "static/css/main.aabd832b.chunk.css",
     "static/js/main.825f9bc7.chunk.js"
   ]
