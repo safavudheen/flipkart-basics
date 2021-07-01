@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/flipkart-home/static/css/main.aabd832b.chunk.css",
-    "main.js": "/flipkart-home/static/js/main.c85a6b28.chunk.js",
-    "main.js.map": "/flipkart-home/static/js/main.c85a6b28.chunk.js.map",
+    "main.js": "/flipkart-home/static/js/main.b469f8b1.chunk.js",
+    "main.js.map": "/flipkart-home/static/js/main.b469f8b1.chunk.js.map",
     "runtime-main.js": "/flipkart-home/static/js/runtime-main.3c640116.js",
     "runtime-main.js.map": "/flipkart-home/static/js/runtime-main.3c640116.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/flipkart-home/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.74245888.chunk.js": "/flipkart-home/static/js/2.74245888.chunk.js",
-    "static/js/2.74245888.chunk.js.map": "/flipkart-home/static/js/2.74245888.chunk.js.map",
+    "static/js/2.315876ee.chunk.js": "/flipkart-home/static/js/2.315876ee.chunk.js",
+    "static/js/2.315876ee.chunk.js.map": "/flipkart-home/static/js/2.315876ee.chunk.js.map",
     "index.html": "/flipkart-home/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/flipkart-home/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.aabd832b.chunk.css.map": "/flipkart-home/static/css/main.aabd832b.chunk.css.map",
-    "static/js/2.74245888.chunk.js.LICENSE.txt": "/flipkart-home/static/js/2.74245888.chunk.js.LICENSE.txt"
+    "static/js/2.315876ee.chunk.js.LICENSE.txt": "/flipkart-home/static/js/2.315876ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3c640116.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.74245888.chunk.js",
+    "static/js/2.315876ee.chunk.js",
     "static/css/main.aabd832b.chunk.css",
-    "static/js/main.c85a6b28.chunk.js"
+    "static/js/main.b469f8b1.chunk.js"
   ]
 }
